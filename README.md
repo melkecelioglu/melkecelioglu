@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**melkecelioglu/melkecelioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Melike
 
-Here are some ideas to get you started:
+blockchain and swift enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+melkecelioglu
+
+🌱 I’m currently learning Swift and Blockchain
+
+📝 I regularly write articles on my website
+
+📺 I shoot videos about my projects on Youtube
+
+💬 Ask me about NFT and RoboAdvisors
+
+📫 How to reach me melkecelioglu@gmail.com 
