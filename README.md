@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-                                                  Hi 👋, I'm Melike
+Hi 👋, I'm Melike
 
-                                          blockchain and swift enthusiast
+blockchain and swift enthusiast
 
-
-melkecelioglu
 
 🌱 I’m currently learning Swift and Blockchain
 
