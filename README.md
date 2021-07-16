@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi 👋, I'm Melike
+Hi 👋, I'm Melike Kecelioglu
 
 blockchain and swift enthusiast
 
