@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Melike Kecelioglu
 
-blockchain and swift enthusiast
+blockchain enthusiast
 
 
 🌱 I’m currently learning Swift and Blockchain
