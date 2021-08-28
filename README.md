@@ -5,7 +5,7 @@ Hi 👋, I'm Melike Kecelioglu
 blockchain enthusiast
 
 
-🌱 I’m currently learning Swift and Blockchain
+🌱 I’m currently learning Blockchain
 
 📝 I regularly write articles on my website
 
