@@ -8,9 +8,7 @@ blockchain enthusiast
 
 🌱 I’m currently learning Blockchain
 
-📝 I regularly write articles on my website
-
-👓 I basically am trying anything I am curious about on software techologies, so do not be suprised when you see something like walkthrough.
+👓 I am basically trying anything I am curious about on software techologies, so do not be suprised when you see something like walkthrough.
 
 📺 I shoot videos about my projects on Youtube
 
