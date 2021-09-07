@@ -12,7 +12,7 @@ blockchain enthusiast
 
 📺 I shoot videos about my projects on Youtube
 
-💬 Ask me about NFT and Blockchain
+💬 Ask me anything about NFT and Blockchain
 
 📫 How to reach me melkecelioglu@gmail.com 
 
