@@ -6,7 +6,7 @@ Hi 👋, I'm Melike Kecelioglu
 blockchain enthusiast
 
 
-🌱 I’m currently learning Blockchain
+🧩 I'm currently learning Flutter
 
 👓 basically trying anything I am curious about on software technologies, so do not be suprised when you see something like walkthrough.
 
