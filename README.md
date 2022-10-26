@@ -3,7 +3,7 @@
 
 
 Hi 👋🏻 I'm Melike Kecelioglu 
-
+🌱 I’m currently working on back-end development with Golang
 📩 reach me via melkecelioglu@gmail.com
 
 
