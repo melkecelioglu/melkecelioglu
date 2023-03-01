@@ -1,9 +1,10 @@
 # Greetings
 
 
+👋🏻 It is Melike Kecelioglu
 
-Hi 👋🏻 I'm Melike Kecelioglu 
-👾 I’m currently working on back-end development with Golang
+👾 I’m currently working on back-end development with Golang on a cryptocurrency exchange platform
+
 📩 reach me via melkecelioglu@gmail.com
 
 
