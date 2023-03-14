@@ -16,5 +16,5 @@
 <img src= "https://github-readme-stats-sigma-five.vercel.app/api?username=melkecelioglu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-<img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=melkecelioglu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=melkecelioglu&theme=react&line_height=40&hide=css">
 
