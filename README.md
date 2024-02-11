@@ -3,7 +3,8 @@
 
 👋🏻 It is Melike Kecelioglu
 
-👾 I’m currently working on back-end development with Golang on a cryptocurrency exchange platform
+👾 I’m currently working on web3 solidity rust development 
+also coding backend with Golang on a cryptocurrency exchange platform
 
 📩 reach me via melkecelioglu@gmail.com
 
